@@ -1,1 +1,2 @@
-Add new file
+
+Bây giờ là newmodule này 
